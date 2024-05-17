@@ -11,7 +11,7 @@ This web consist of major two frontends one for Neo Tech Customerrs and one for 
 - **Inventory Management** - Tharindu
 - **Services Management** - Udara
 - **Customer Affair Management** - Githadi Sandaruvi
-- **Appointments Management** - Nihinsa
+- **Appointments Management** - [Nihinsa Dilmani (NihinsaHV)](https://github.com/NihinsaHV).
 - **Mobile Services Management** - Isisri
 - **Vehicle Management** - Vinuri
 
