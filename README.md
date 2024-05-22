@@ -8,7 +8,7 @@ This web consist of major two frontends one for Neo Tech Customerrs and one for 
 
 - **Employee Management(HR)** - [Rachcith Tharana (rachcha2002)](https://github.com/rachcha2002)
 - **Finance Management** - Kavinda
-- **Inventory Management** - Tharindu
+- **Inventory Management** - [Tharindu Eranga (ThariiEranga)](https://github.com/ThariiEranga)
 - **Services Management** - Udara
 - **Customer Affair Management** - Githadi Sandaruvi
 - **Appointments Management** - [Nihinsa Dilmani (NihinsaHV)](https://github.com/NihinsaHV).
