@@ -102,12 +102,26 @@ I have contributed to the development of the HR Management of NeoTech Automotive
 - **Attendance Management**: Designed and built the attendance management system to keep track of attendance of employees.
 - **HR configurations**: Integrated the HR role systems to divide permisions and nopay log system.
 
-## Video demo of HR Fuctions
+## Live Demo
+
+Try out the live demo of the **NeoTech Automotive Center Management System** using the link below:
+
+🔗 [Hosted Demo Link](https://neotechmotors.live/) 
+
+### Demo Credentials
+
+- **General Manager Login**
+  - **Email**: saliya.neosl@gmail.com
+  - **Password**: Neo@1234
+- **HR Login**
+  - **Email**: varuni.neo@gmail.com
+  - **Password**: Varuni@1234
+
 
 
 ## Contact
 
-For more information or any questions, feel free to contact me at [your-email@example.com].
+For more information or any questions, feel free to contact me at [your-rachiththarana.com].
 
 ---
 
