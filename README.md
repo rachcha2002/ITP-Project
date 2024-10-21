@@ -55,33 +55,33 @@ To run this project locally, follow the steps below:
    - Add the following environment variables for backend:
      ```bash
      # Server Port
-PORT=5000
-
-# MongoDB
-MONGO_URL='your_mongodb_url_here'
-
-# PayHere
-MERCHANT_ID='your_merchant_id_here'
-MS='your_merchant_secret_here'
-RETURN_URL='http://localhost:3000/customer/payments/onlinepayment/verify/'
-CANCEL_URL='http://localhost:3000/customer/payments/onlinepayment/fail/'
-NOTIFY_URL='your_notify_url_here'
-
-# Firebase
-API_KEY='your_firebase_api_key_here'
-AUTH_DOMAIN='your_auth_domain_here'
-PROJECT_ID='your_project_id_here'
-STORAGE_BUCKET='your_storage_bucket_here'
-MESSAGING_SENDER_ID='your_messaging_sender_id_here'
-APP_ID='your_app_id_here'
-
-# Gmail (for sending emails)
-EMAIL='your_email_here'
-PASSWORD='your_email_password_here'
-
-# HR Gmail (for HR-related emails)
-HRMAIL='your_hr_email_here'
-HRPWD='your_hr_email_password_here'
+      PORT=5000
+      
+      # MongoDB
+      MONGO_URL='your_mongodb_url_here'
+      
+      # PayHere
+      MERCHANT_ID='your_merchant_id_here'
+      MS='your_merchant_secret_here'
+      RETURN_URL='http://localhost:3000/customer/payments/onlinepayment/verify/'
+      CANCEL_URL='http://localhost:3000/customer/payments/onlinepayment/fail/'
+      NOTIFY_URL='your_notify_url_here'
+      
+      # Firebase
+      API_KEY='your_firebase_api_key_here'
+      AUTH_DOMAIN='your_auth_domain_here'
+      PROJECT_ID='your_project_id_here'
+      STORAGE_BUCKET='your_storage_bucket_here'
+      MESSAGING_SENDER_ID='your_messaging_sender_id_here'
+      APP_ID='your_app_id_here'
+      
+      # Gmail (for sending emails)
+      EMAIL='your_email_here'
+      PASSWORD='your_email_password_here'
+      
+      # HR Gmail (for HR-related emails)
+      HRMAIL='your_hr_email_here'
+      HRPWD='your_hr_email_password_here'
 
      ```
 
