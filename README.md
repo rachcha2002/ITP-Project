@@ -53,7 +53,7 @@ To run this project locally, follow the steps below:
 3. **Set Up Environment Variables**
    - Create a `.env` file in the root directory.
    - Add the following environment variables for backend:
-     ```
+     ```bash
      # Server Port
 PORT=5000
 
