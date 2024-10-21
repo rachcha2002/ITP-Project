@@ -121,8 +121,6 @@ Try out the live demo of the **NeoTech Automotive Center Management System** usi
 
 ## Contact
 
-For more information or any questions, feel free to contact me at [your-rachiththarana.com].
+For more information or any questions, feel free to contact me at [rachiththarana.com].
 
----
 
-Feel free to customize this README to fit the details of your project! Let me know if you need further modifications.
