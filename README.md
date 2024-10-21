@@ -94,34 +94,15 @@ To run this project locally, follow the steps below:
 
 ## My Contribution
 
-I have contributed to the development of the NeoTech Automotive Center Management System with the following responsibilities:
+I have contributed to the development of the HR Management of NeoTech Automotive Center Management System with the following responsibilities:
 
-- **Customer Management Module**: Implemented customer registration, profile management, and service history tracking.
-- **Booking System Integration**: Developed the booking system for managing service appointments and notifications.
-- **Vehicle Inspection Module**: Created the inspection module for maintaining records of vehicle conditions, including parts replaced and repairs made.
-- **Inventory Management**: Designed and built the inventory management system to keep track of spare parts and supplies.
-- **Invoice Generation**: Integrated the automated invoice generation feature to simplify billing and payment processes.
+- **Employee Registration**: Implemented employee registration, profile management, and authentication and authorization.
+- **Employee Salary Mangement**: Developed the slary mangement feture for salary makings with intergratedof relavant work performance.
+- **Leave Mangement Syatem**: Implement leave management system for employees andtrack the employee leaves.
+- **Attendance Management**: Designed and built the attendance management system to keep track of attendance of employees.
+- **HR configurations**: Integrated the HR role systems to divide permisions and nopay log system.
 
-## Screenshots
-
-Below are some screenshots to give a better understanding of the application:
-
-### Dashboard Overview
-![Dashboard Overview](./screenshots/dashboard.png)
-
-### Booking Management
-![Booking Management](./screenshots/booking-management.png)
-
-### Vehicle Inspection
-![Vehicle Inspection](./screenshots/vehicle-inspection.png)
-
-### Inventory Management
-![Inventory Management](./screenshots/inventory-management.png)
-
-### Invoice Generation
-![Invoice Generation](./screenshots/invoice-generation.png)
-
-
+## Video demo of HR Fuctions
 
 
 ## Contact
